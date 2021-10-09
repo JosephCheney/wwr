@@ -1,0 +1,115 @@
+div{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+/* body{
+    background-color: red;
+} */
+nav{
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+
+}
+a{
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+#hero-box{
+    text-align: center;
+}
+#hero-image{
+    width: 100%;
+}
+h1{
+    text-align: center
+}
+#hero-msg{
+    text-align: center
+}
+h4{
+    text-align: center;
+    color: black;
+}
+h3{
+    color: black;
+    text-decoration: underline;
+}
+.button-box{
+    text-align: center;
+}
+main{
+    text-align: center
+}
+section{
+    text-align: center;
+}
+#background{
+    height: 725px;
+}
+body{
+    background-color: lightblue;
+}
+header{
+    background-color: lightblue;
+}
+nav a:hover{
+    background-color: lightblue;
+    color: black
+}
+.book{
+    background-color: lightblue;
+    color: black;
+    text-decoration: none;
+}
+.join{
+    background-color: lightblue;
+    color: black;
+    text-decoration: none;
+}
+.book:hover{
+    background-color: lightblue;
+    color: black;
+}
+.join:hover{
+    background-color: lightblue;
+    color: black;
+}
+#background{
+    background-color: lightblue;
+}
+.msg{
+    background-color: #D8A47F;
+    color: black;
+}
+footer{
+    background-color: #D8A47F;
+    color: black;
+    text-decoration: underline;
+}
+.home-title{
+    color: black;
+}
+.msg h2{
+    color: black;
+}
+.msg p{
+    color: black;
+}
+footer a{
+    color: black;
+    text-decoration: none;
+}
+footer a:hover{
+    color: black;
+}
+.icon{
+    width: 80px;
+}
+.logo{
+    width: 80px;
+}
+a:hover{
+    text-decoration: underline;
+}
