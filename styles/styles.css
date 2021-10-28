@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
 #content{
     max-width: 1600px;
     margin: 0 auto;
@@ -8,14 +11,18 @@
 } */
 nav{
     text-align: left;
-    color: blue;
+    background-color: #D8A47f;
     text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+
 
 }
 a{
     text-align: center;
     color: black;
     text-decoration: none;
+
 }
 #hero-box{
     text-align: center;
@@ -25,10 +32,10 @@ a{
     width: 100%;
 }
 h1{
-    text-align: center
+    text-align: center;
 }
 #hero-msg{
-    text-align: center
+    text-align: center;
 }
 #hero {
     width: 100%;
@@ -43,6 +50,7 @@ h3{
 }
 .button-box{
     text-align: center;
+    color: lightblue;
 }
 main{
     text-align: center;
@@ -67,6 +75,8 @@ body{
 }
 header{
     background-color: #D8A47F;
+    display: grid;
+    grid-template-columns: 150px auto;
 }
 nav a:hover{
     background-color: lightblue;
@@ -96,9 +106,6 @@ nav a:hover{
     background-color: lightblue;
     color: black;
 }
-#background{
-    background-color: lightblue;
-}
 .msg{
     background-color: #D8A47F;
     color: black;
@@ -115,7 +122,7 @@ footer{
 }
 .home-title{
     color: black;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Aguafina Script","Aclonica","Playfair Display ital@1 display", "Helvetica Neue",'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 2em;
     margin-top: 10px;
 }
@@ -164,4 +171,5 @@ footer .social img{
 }
 .mountains{
     background-color:#D8A47F;
+    
 }
