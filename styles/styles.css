@@ -20,6 +20,7 @@ a{
     text-align: center;
     text-decoration: none;
     color: lightblue;
+    text-shadow: 1px 1px black
 
 }
 #hero-box{
@@ -221,7 +222,9 @@ footer .social img{
     grid-row: 2/3;
 }
 
-
+.social a{
+    text-decoration: none;
+}
 
 
 
